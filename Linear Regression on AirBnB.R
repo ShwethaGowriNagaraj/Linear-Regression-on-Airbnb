@@ -1,6 +1,6 @@
 library(ggplot2)
 library(tidyverse)
-setwd("C:/Users/shwet/OneDrive - Harrisburg University/ANLY -502 - Scott")
+setwd()
 airbnb <- read.csv("airbnb.csv")
 # Manipulate
 airbnb <- airbnb %>% 
